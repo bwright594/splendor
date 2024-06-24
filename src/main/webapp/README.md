@@ -1,6 +1,3 @@
-# This is a board game calculator type thing for Splendor
-TODO: actually write a readme when I have a project to make a readme for.
-
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
